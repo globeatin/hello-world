@@ -1,2 +1,4 @@
 # hello-world
-Guided set up
+My name is globeatin. 
+I am a complete noob.
+please be gentle.
